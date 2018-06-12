@@ -73,3 +73,4 @@ distance(graph[dict_last_element_item[len(dict_last_element_item)-1]],graph[mult
    if nodes==2:  
        for two_combo in A[2].keys():
            return list(list(A[2][two_combo].keys())[0])
+      
